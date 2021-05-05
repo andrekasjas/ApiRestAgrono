@@ -2,8 +2,8 @@ apirest en node.js y postgresql
 
 intalaciones necesarias:
 
-$1: modulo express frameword de node 
-$2: module pg conexion a postgres
+$1: modulo express frameword de node.
+$2: module pg conexion a postgres.
 
 comando utilizados:
 
