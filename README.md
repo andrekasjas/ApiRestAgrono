@@ -9,7 +9,7 @@
 ![agrono_desple](https://user-images.githubusercontent.com/62920120/143485083-cda8dc33-eaee-43cf-b4ff-9fc28d295c8b.png)
 ## Gastos
 ### Muestra informacion de los gastos realizados y opcion para descargar mas informacion en formato PDF
-
+![agrono_pdf](https://user-images.githubusercontent.com/62920120/143485686-d40e2ca5-a378-45fe-82b0-4f9357d03941.png)
 ## requeridas:
 ```
 nodejs, postgresql 
