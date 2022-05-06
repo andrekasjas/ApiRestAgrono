@@ -2,12 +2,7 @@
 ```
 base de datos, se encuentra en https://github.com/andrekasjas/BaseDatosAgronomo
 ```
-## comando utilizados:
+## Instalar dependencias con:
 ```
-npm init -y
+npm install
 ```
-```
-npm i express pg
-```
-```
-npm i nodemon -D
