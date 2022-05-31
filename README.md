@@ -1,6 +1,6 @@
 # apirest de proyecto agronomo
 ### Host
--[View](https://apiagronomo.herokuapp.com/proveedores)
+-[View](https://apiagronomo.herokuapp.com)
 ```
 base de datos, se encuentra en https://github.com/andrekasjas/BaseDatosAgronomo
 ```
